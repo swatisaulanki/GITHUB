@@ -1,1 +1,1 @@
-# GITHUB
+# GitHub App
